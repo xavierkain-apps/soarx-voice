@@ -1,3 +1,6 @@
+> **Frozen.** ComX moved to `xavierkain-apps/comx` (branch `main`) on 2026-10-18.
+> Do not commit here; this branch is kept for history only.
+
 # ComX
 
 A friend compass for kitesurfers and wingfoilers (like Surfr's Friend
